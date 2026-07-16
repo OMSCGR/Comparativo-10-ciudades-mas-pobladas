@@ -1,1 +1,1 @@
-- 🏙️ Quito frente a las nueve ciudades más pobladas del país: https://omscgr.github.io/Comparativo-10-ciudades-mas-pobladas-README.md/
+- 🏙️ Quito frente a las nueve ciudades más pobladas del país: https://omscgr.github.io/Comparativo-10-ciudades-mas-pobladas/
